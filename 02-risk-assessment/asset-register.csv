@@ -1,17 +1,17 @@
 
-Asset ID,Asset Name,Asset Category,Description,Asset Owner,Location,Confidentiality,Integrity,Availability,Overall Classification
-AST-001,Customer Financial Database,Information,Customer financial records and transaction information,Head of Finance,AWS Cloud,High,High,High,Restricted
-AST-002,Customer Personal Information,Information,Customer names contact details and account information,Data Protection Contact,AWS Cloud,High,High,High,Restricted
-AST-003,Application Source Code,Software,Source code for the CloudLedger SaaS platform,Development Manager,Git Repository,High,High,Medium,Confidential
-AST-004,AWS Production Environment,Infrastructure,Cloud infrastructure supporting the production SaaS platform,IT Manager,AWS Cloud,High,High,High,Restricted
-AST-005,Employee Information,Information,Employee personal and employment records,HR Manager,Corporate Systems,High,High,Medium,Confidential
-AST-006,Identity and Access Management,Software,User identities authentication and access permissions,IT Manager,Cloud Environment,High,High,High,Restricted
-AST-007,Security Event Logs,Information,Authentication application and infrastructure security logs,Security Manager,AWS Cloud,Medium,High,High,Confidential
-AST-008,Backup Repository,Information,Backups of application databases and business information,IT Manager,AWS Cloud,High,High,High,Restricted
-AST-009,Corporate Employee Laptops,Hardware,Employee workstations used to access business systems,IT Manager,Corporate and Remote,Medium,High,Medium,Confidential
-AST-010,Payment Integration Credentials,Information,Credentials and secrets used for payment service integrations,Development Manager,Secrets Management Service,High,High,High,Restricted
-AST-011,Customer Support Platform,Software,Platform containing customer support tickets and communications,Customer Support Manager,SaaS Platform,High,High,Medium,Confidential
-AST-012,Information Security Policies,Documentation,Approved information security policies and procedures,Information Security Manager,Document Repository,Medium,High,Medium,Internal
-AST-013,Employee Authentication Credentials,Information,Employee passwords and authentication secrets,IT Manager,Identity Platform,High,High,High,Restricted
-AST-014,Network Configuration Records,Documentation,Cloud networking firewall and connectivity configurations,IT Manager,Cloud Environment,High,High,High,Confidential
-AST-015,Third-Party Supplier Records,Information,Supplier contracts security assessments and service information,Procurement Manager,Document Repository,Medium,High,Medium,Confidential
+Asset ID,Asset Name,Asset Category,Description,Asset Owner,Asset Custodian,Location,Business Process,Supporting Provider,Confidentiality,Integrity,Availability,Overall Classification,Lifecycle Status,Last Reviewed
+AST-001,Customer Financial Database,Information,Customer financial records and transaction information,Head of Finance,Database Administrator,AWS Cloud,Financial Data Processing,AWS,High,High,High,Restricted,Active,2026-11-26
+AST-002,Customer Personal Information,Information,Customer names contact details and account information,Data Protection Contact,Database Administrator,AWS Cloud,Customer Data Management,AWS,High,High,High,Restricted,Active,2026-11-26
+AST-003,Application Source Code,Software,Source code for the CloudLedger SaaS platform,Development Manager,DevOps Engineer,Git Repository,Software Development,Repository Provider,High,High,Medium,Confidential,Active,2026-11-26
+AST-004,AWS Production Environment,Infrastructure,Cloud infrastructure supporting the production SaaS platform,IT Manager,Cloud Administrator,AWS Cloud,Production Service Operations,AWS,High,High,High,Restricted,Active,2026-11-26
+AST-005,Employee Information,Information,Employee personal and employment records,HR Manager,HR Administrator,Corporate Systems,Human Resource Management,Corporate Systems Provider,High,High,Medium,Confidential,Active,2026-11-26
+AST-006,Identity and Access Management,Software,User identities authentication and access permissions,IT Manager,Identity Administrator,Cloud Environment,Identity and Access Management,Identity Platform Provider,High,High,High,Restricted,Active,2026-11-26
+AST-007,Security Event Logs,Information,Authentication application and infrastructure security logs,Security Manager,Security Analyst,AWS Cloud,Security Monitoring and Incident Detection,AWS,High,High,High,Confidential,Active,2026-11-26
+AST-008,Backup Repository,Information,Backups of application databases and business information,IT Manager,Backup Administrator,AWS Cloud,Backup and Recovery,AWS,High,High,High,Restricted,Active,2026-11-26
+AST-009,Corporate Employee Laptops,Hardware,Employee workstations used to access business systems,IT Manager,IT Support Administrator,Corporate and Remote,Employee IT Operations,Internal IT,High,High,Medium,Confidential,Active,2026-11-26
+AST-010,Payment Integration Credentials,Information,API keys tokens and secrets used for payment service integrations,Development Manager,DevOps Engineer,Secrets Management Service,Payment Processing,Secrets Management Provider,High,High,High,Restricted,Active,2026-11-26
+AST-011,Customer Support Platform,Software,Platform containing customer support tickets and communications,Customer Support Manager,Support Platform Administrator,SaaS Platform,Customer Support Operations,Third-Party SaaS Provider,High,High,Medium,Confidential,Active,2026-11-26
+AST-012,Information Security Policies,Documentation,Information security policies and procedures,Information Security Manager,GRC Analyst,Document Repository,ISMS Governance,Internal Document Repository,Medium,High,Medium,Internal,Active,2026-11-26
+AST-013,Employee Authentication Credentials,Information,Password hashes authentication tokens and authentication secrets,IT Manager,Identity Administrator,Identity Platform,User Authentication,Identity Platform Provider,High,High,High,Restricted,Active,2026-11-26
+AST-014,Network Configuration Records,Documentation,Cloud networking firewall and connectivity configurations,IT Manager,Cloud Administrator,Cloud Environment,Network Security and Infrastructure Management,AWS,High,High,High,Confidential,Active,2026-11-26
+AST-015,Third-Party Supplier Records,Information,Supplier contracts security assessments and service information,Procurement Manager,Procurement Officer,Document Repository,Supplier Management,Internal Document Repository,Medium,High,Medium,Confidential,Active,2026-11-26
