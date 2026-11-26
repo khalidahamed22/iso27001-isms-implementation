@@ -40,7 +40,7 @@ Unnecessary modification permissions could result in accidental or unauthorised 
 4. Retain read-only access.
 5. Verify the updated permissions.
 
-**Target Completion Date:** 2026-11-30
+**Target Completion Date:** 2026-11-26
 
 ### Simulated Remediation Result
 
@@ -49,7 +49,7 @@ Unnecessary modification permissions could result in accidental or unauthorised 
 | Action Taken | Modification permissions removed |
 | Remaining Access | Read Only |
 | Implemented By | IT Administrator |
-| Completion Date | 2026-11-28 |
+| Completion Date | 2026-11-26 |
 | Verification | Pass – Simulated |
 | Verified By | Data Owner |
 | Status | Closed – Simulated |
@@ -87,17 +87,17 @@ Permanent privileged permissions increase the potential impact of compromised cr
 | Action Taken | Permanent administrator access removed |
 | New Access Model | Time-limited privileged access |
 | Implemented By | Cloud Administrator |
-| Completion Date | 2026-12-03 |
+| Completion Date | 2026-11-26 |
 | Verification | Pass – Simulated |
 | Verified By | Information Security Manager |
 | Status | Closed – Simulated |
 
 ## 4. Remediation Summary
 
-| Finding ID | Original Issue | Remediation Status |
-|---|---|---|
-| REM-001-A | Excessive customer data permissions | Closed – Simulated |
-| REM-001-B | Permanent privileged access | Closed – Simulated |
+| Finding ID | Original Issue | Target Date | Completion Date | Remediation Status |
+|---|---|---|---|---|
+| REM-001-A | Excessive customer data permissions | 2026-11-26 | 2026-11-26 | Closed – Simulated |
+| REM-001-B | Permanent privileged access | 2026-12-05 | 2026-11-26 | Closed – Simulated |
 
 ## 5. GRC Verification
 
