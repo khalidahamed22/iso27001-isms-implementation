@@ -1,0 +1,6 @@
+
+Record ID,Asset ID,Asset Description,Assigned To,Employee ID,Assignment Date,Condition at Issue,Return Date,Condition at Return,Return Verified By,Status,Notes
+AAR-001,AST-009,Laptop,Kasun Fernando,CL-EMP-011,2025-06-01,Good,2026-11-25,Good,IT Support Administrator,Returned,Simulated employee exit record
+AAR-002,AST-009,Laptop,Nimal Perera,CL-EMP-024,2026-03-15,Good,,,,,Assigned,Simulated active employee assignment
+AAR-003,AST-009,Laptop,Tharushi Silva,CL-EMP-018,2025-09-10,Good,,,,,Assigned,Simulated active employee assignment
+AAR-004,AST-009,Laptop,Amal Jayasinghe,CL-EMP-032,2026-01-20,Good,,,,,Assigned,Simulated active employee assignment
