@@ -1,0 +1,12 @@
+
+Review_ID,Review_Date,Employee_ID,Employee_Name,Department,Job_Role,System_Name,Current_Access,Required_Access,Review_Result,Action_Required,Action_Status,Reviewed_By
+UAR-001,2026-11-25,CL-EMP-024,Nimal Perera,Software Engineering,Junior Software Developer,Corporate Email,Standard User,Standard User,Appropriate,None,No Action Required,Engineering Manager
+UAR-001,2026-11-25,CL-EMP-024,Nimal Perera,Software Engineering,Junior Software Developer,Source Code Repository,Project Read Write,Project Read Write,Appropriate,None,No Action Required,Application Owner
+UAR-001,2026-11-25,CL-EMP-024,Nimal Perera,Software Engineering,Junior Software Developer,AWS Development Environment,Restricted Development Access,Restricted Development Access,Appropriate,None,No Action Required,Cloud Administrator
+UAR-001,2026-11-25,CL-EMP-024,Nimal Perera,Software Engineering,Junior Software Developer,AWS Production Environment,No Access,No Access,Appropriate,None,No Action Required,Cloud Administrator
+UAR-001,2026-11-25,CL-EMP-011,Kasun Fernando,Finance,Finance Executive,Corporate Email,Disabled,No Access,Appropriate,None,No Action Required,IT Manager
+UAR-001,2026-11-25,CL-EMP-011,Kasun Fernando,Finance,Finance Executive,Financial Management Application,Disabled,No Access,Appropriate,None,No Action Required,Finance Manager
+UAR-001,2026-11-25,CL-EMP-032,Tharushi Silva,Finance,Finance Manager,Financial Management Application,Finance Manager Access,Finance Manager Access,Appropriate,None,No Action Required,Finance Manager
+UAR-001,2026-11-25,CL-EMP-032,Tharushi Silva,Finance,Finance Manager,Customer Financial Records,Read Write,Read Only,Excessive Access,Reduce permissions,Pending Remediation,Data Owner
+UAR-001,2026-11-25,CL-EMP-018,Amal Jayasinghe,IT Operations,IT Administrator,Cloud Infrastructure,Administrator,Administrator,Appropriate,None,No Action Required,IT Manager
+UAR-001,2026-11-25,CL-EMP-018,Amal Jayasinghe,IT Operations,IT Administrator,Privileged AWS Account,Administrator,Just-in-Time Privileged Access,Excessive Access,Implement time-limited privileged access,Pending Remediation,Information Security Manager
