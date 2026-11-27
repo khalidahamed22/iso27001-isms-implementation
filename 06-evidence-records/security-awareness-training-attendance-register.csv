@@ -1,0 +1,9 @@
+Training Record ID,Employee ID,Employee Name,Department,Training Topic,Training Date,Delivery Method,Attendance Status,Assessment Score,Assessment Result,Trainer,Record Status
+TR-001,CL-EMP-001,Nimal Perera,Software Development,Information Security Policy Awareness,2027-01-15,Online Training,Completed,90,Passed,Information Security Manager,Simulated
+TR-002,CL-EMP-002,Tharushi Silva,Finance,Information Security Policy Awareness,2027-01-15,Online Training,Completed,85,Passed,Information Security Manager,Simulated
+TR-003,CL-EMP-003,Amal Jayasinghe,IT Operations,Information Security Policy Awareness,2027-01-15,Online Training,Completed,95,Passed,Information Security Manager,Simulated
+TR-004,CL-EMP-004,Kasun Fernando,Customer Support,Information Security Policy Awareness,2027-01-15,Online Training,Completed,80,Passed,Information Security Manager,Simulated
+TR-005,CL-EMP-001,Nimal Perera,Software Development,Phishing and Social Engineering,2027-02-12,Workshop,Completed,85,Passed,Security Analyst,Simulated
+TR-006,CL-EMP-002,Tharushi Silva,Finance,Phishing and Social Engineering,2027-02-12,Workshop,Completed,90,Passed,Security Analyst,Simulated
+TR-007,CL-EMP-003,Amal Jayasinghe,IT Operations,Phishing and Social Engineering,2027-02-12,Workshop,Completed,75,Not Passed,Security Analyst,Simulated
+TR-008,CL-EMP-004,Kasun Fernando,Customer Support,Phishing and Social Engineering,2027-02-12,Workshop,Completed,95,Passed,Security Analyst,Simulated
