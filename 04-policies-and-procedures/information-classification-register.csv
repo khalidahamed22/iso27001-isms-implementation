@@ -1,0 +1,17 @@
+
+Record ID,Information Asset,Asset ID,Information Owner,Classification,Confidentiality Requirement,Integrity Requirement,Availability Requirement,Approved Storage Location,Handling Requirements,Review Frequency,Status
+ICR-001,Customer Financial Records,AST-001,Head of Finance,Restricted,High,High,High,AWS Production Database,Restricted access; encryption; access logging; approved secure transmission,Quarterly,Simulated
+ICR-002,Customer Personal Information,AST-002,Data Protection Contact,Restricted,High,High,High,AWS Production Database,Restricted access; privacy safeguards; encryption; access logging,Quarterly,Simulated
+ICR-003,Application Source Code,AST-003,Development Manager,Confidential,High,High,Medium,Approved Git Repository,Role-based access; MFA; protected branches; code review,Quarterly,Simulated
+ICR-004,AWS Production Configuration,AST-004,IT Manager,Restricted,High,High,High,AWS Cloud Environment,Privileged access; MFA; configuration monitoring; restricted administration,Quarterly,Simulated
+ICR-005,Employee Information,AST-005,HR Manager,Confidential,High,High,Medium,Approved HR System,HR-authorised access; secure storage; controlled sharing,Quarterly,Simulated
+ICR-006,Identity and Access Records,AST-006,IT Manager,Restricted,High,High,High,Identity Management Platform,Restricted administration; MFA; access logging; periodic review,Quarterly,Simulated
+ICR-007,Security Event Logs,AST-007,Security Manager,Confidential,High,High,High,Approved Central Logging Platform,Restricted security-team access; integrity protection; retention controls,Quarterly,Simulated
+ICR-008,Backup Data,AST-008,IT Manager,Restricted,High,High,High,AWS Backup Repository,Restricted access; encryption; backup monitoring; restore testing,Quarterly,Simulated
+ICR-009,Employee Laptop Data,AST-009,IT Manager,Confidential,High,High,Medium,Company-Managed Endpoints,Device encryption; endpoint protection; access restrictions; secure disposal,Quarterly,Simulated
+ICR-010,Payment Integration Credentials,AST-010,Development Manager,Restricted,High,High,High,Approved Secrets Management Service,No plaintext storage; restricted access; rotation; access logging,Quarterly,Simulated
+ICR-011,Customer Support Records,AST-011,Customer Support Manager,Confidential,High,High,Medium,Approved Customer Support Platform,Role-based access; secure sharing; retention controls,Quarterly,Simulated
+ICR-012,Information Security Policies,AST-012,Information Security Manager,Internal,Medium,High,Medium,Approved Document Repository,Controlled editing; authorised internal access; version control,Annually,Simulated
+ICR-013,Employee Authentication Credentials,AST-013,IT Manager,Restricted,High,High,High,Identity Management Platform,Password hashing; protected authentication secrets; MFA; restricted access,Quarterly,Simulated
+ICR-014,Network Configuration Records,AST-014,IT Manager,Confidential,High,High,High,Approved Configuration Repository,Restricted access; change control; version history; secure storage,Quarterly,Simulated
+ICR-015,Supplier Contracts and Security Assessments,AST-015,Procurement Manager,Confidential,High,High,Medium,Approved Document Repository,Restricted access; controlled sharing; retention requirements,Annually,Simulated
