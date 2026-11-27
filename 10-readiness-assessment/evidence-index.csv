@@ -1,0 +1,46 @@
+
+Evidence ID,ISO Reference,Document or Evidence Name,Repository Path,Evidence Type,Responsible Owner,Evidence Status,Notes
+EVD-001,Clause 4.1,Company Profile,01-business-context/company-profile.md,Context Document,Information Security Manager,Document Prepared,Simulated company information
+EVD-002,Clause 4.2,Interested Parties Register,01-business-context/interested-parties.md,Register,Information Security Manager,Document Prepared,Requirements require validation
+EVD-003,Clause 4.3,ISMS Scope,01-business-context/isms-scope.md,Scope Document,Senior Management,Document Prepared,Approval pending
+EVD-004,Clause 4.4,ISMS Process Framework,01-business-context/isms-process-framework.md,Process Document,Information Security Manager,Document Prepared,Process operation not verified
+EVD-005,Clause 6.1.2,Risk Assessment Methodology,02-risk-assessment/risk-assessment-methodology.md,Methodology,Information Security Manager,Document Prepared,Methodology requires organisational validation
+EVD-006,Clause 6.1.2,Asset Register,02-risk-assessment/asset-register.csv,Register,Asset Owners,Document Prepared,Asset information requires validation
+EVD-007,Clause 6.1.2,Information Security Risk Register,02-risk-assessment/risk-register.csv,Register,Risk Owners,Document Prepared,Risk estimates require owner validation
+EVD-008,Clause 6.1.3,Risk Treatment Plan,03-risk-treatment/risk-treatment-plan.md,Treatment Plan,Information Security Manager,Document Prepared,Treatment implementation not verified
+EVD-009,Clause 6.1.3,Statement of Applicability,03-risk-treatment/statement-of-applicability.csv,Applicability Register,Information Security Manager,Document Prepared,Control applicability and status require validation
+EVD-010,Clause 5.2,Information Security Policy,04-policies-and-procedures/information-security-policy.md,Policy,Senior Management,Document Prepared,Formal approval pending
+EVD-011,Annex A 5.15,Access Control Policy,04-policies-and-procedures/access-control-policy.md,Policy,Information Security Manager,Document Prepared,Operational implementation not verified
+EVD-012,Annex A 5.9,Asset Management Procedure,04-policies-and-procedures/asset-management-procedure.md,Procedure,IT Manager,Document Prepared,Operational implementation not verified
+EVD-013,Annex A 5.19,Third-Party and Supplier Security Policy,04-policies-and-procedures/third-party-and-supplier-security-policy.md,Policy,Information Security Manager,Document Prepared,Supplier controls require evidence
+EVD-014,Annex A 8.8,Vulnerability Management Procedure,05-control-implementation/vulnerability-management-procedure.md,Procedure,IT Manager,Document Prepared,Operational implementation not verified
+EVD-015,Annex A 8.13,Backup and Recovery Procedure,05-control-implementation/backup-and-recovery-procedure.md,Procedure,IT Manager,Document Prepared,Restoration testing requires evidence
+EVD-016,Annex A 5.24,Incident Management Procedure,05-control-implementation/information-security-incident-management-procedure.md,Procedure,Security Manager,Document Prepared,Operational implementation not verified
+EVD-017,Annex A 6.3,Security Awareness Training Procedure,05-control-implementation/information-security-awareness-and-training-procedure.md,Procedure,HR Manager,Document Prepared,Training delivery requires evidence
+EVD-018,Annex A 8.32,Change Management Procedure,05-control-implementation/change-management-procedure.md,Procedure,IT Manager,Document Prepared,Operational implementation not verified
+EVD-019,Annex A 5.23,Cloud Security Configuration Standard,05-control-implementation/cloud-security-configuration-standard.md,Standard,Cloud Operations Manager,Document Prepared,Configuration evidence requires validation
+EVD-020,Annex A 5.29,Incident Escalation Matrix,05-control-implementation/incident-escalation-matrix.md,Reference Document,Security Manager,Document Prepared,Escalation arrangements require validation
+EVD-021,Annex A 5.30,Business Continuity Plan,05-control-implementation/business-continuity-plan.md,Plan,Senior Management,Document Prepared,Plan exercise pending
+EVD-022,Annex A 5.30,Disaster Recovery Plan,05-control-implementation/disaster-recovery-plan.md,Plan,IT Manager,Document Prepared,Recovery testing pending
+EVD-023,Annex A 5.30,Business Continuity Exercise Plan,05-control-implementation/business-continuity-exercise-plan.md,Exercise Plan,IT Manager,Document Prepared,Exercise execution pending
+EVD-024,Annex A 5.15,Access Request Example,06-evidence-records/AR-001-access-request-example.md,Sample Record,IT Manager,Simulated Sample,Illustrative access request
+EVD-025,Annex A 5.18,Access Revocation Example,06-evidence-records/AR-002-access-revocation-example.md,Sample Record,IT Manager,Simulated Sample,Illustrative access revocation
+EVD-026,Annex A 5.18,User Access Review Register,06-evidence-records/user-access-review-register.csv,Register,IT Manager,Simulated Sample,Sample review data requires validation
+EVD-027,Annex A 5.9,Asset Assignment and Return Register,06-evidence-records/asset-assignment-and-return-register.csv,Register,IT Manager,Simulated Sample,Illustrative asset records
+EVD-028,Annex A 5.12,Information Classification Register,06-evidence-records/information-classification-register.csv,Register,Information Security Manager,Simulated Sample,Illustrative classification records
+EVD-029,Annex A 5.19,Third-Party Risk Assessment Register,06-evidence-records/third-party-risk-assessment-register.csv,Register,Procurement Manager,Simulated Sample,Supplier assessment evidence requires validation
+EVD-030,Annex A 8.8,Vulnerability Register,06-evidence-records/vulnerability-register.csv,Register,IT Manager,Simulated Sample,Illustrative vulnerability records
+EVD-031,Annex A 8.13,Backup Schedule Register,06-evidence-records/backup-schedule-register.csv,Register,IT Manager,Simulated Sample,Backup execution not verified
+EVD-032,Annex A 5.24,Security Incident Register,06-evidence-records/security-incident-register.csv,Register,Security Manager,Simulated Sample,Illustrative incident records
+EVD-033,Annex A 8.32,Change Management Register,06-evidence-records/change-management-register.csv,Register,IT Manager,Simulated Sample,Illustrative change records
+EVD-034,Clause 9.2,Internal Audit Procedure,07-internal-audit/internal-audit-procedure.md,Procedure,Internal Audit Lead,Document Prepared,Audit operation not verified
+EVD-035,Clause 9.2,Annual Internal Audit Programme,07-internal-audit/annual-internal-audit-programme.md,Audit Programme,Internal Audit Lead,Planned,2027 audit activities planned
+EVD-036,Clause 9.2,Internal Audit Plan,07-internal-audit/internal-audit-plan.md,Audit Plan,Internal Audit Lead,Planned,Audit not conducted
+EVD-037,Clause 9.2,Internal Audit Report,07-internal-audit/internal-audit-report.md,Report Template,Internal Audit Lead,Template Prepared,No actual audit findings
+EVD-038,Clause 9.3,Management Review Agenda,08-management-review/management-review-agenda.md,Meeting Agenda,Senior Management,Document Prepared,Meeting pending
+EVD-039,Clause 9.3,Management Review Minutes,08-management-review/management-review-meeting-minutes.md,Meeting Record,Senior Management,Planned,Meeting not conducted
+EVD-040,Clause 10.2,Corrective Action Procedure,09-corrective-actions/corrective-action-procedure.md,Procedure,Information Security Manager,Document Prepared,Operational effectiveness not verified
+EVD-041,Clause 10.2,Corrective Action Register,09-corrective-actions/corrective-action-register.csv,Register,Information Security Manager,Simulated Sample,Entries require validation
+EVD-042,Clause 10.2,Effectiveness Verification Record,09-corrective-actions/corrective-action-effectiveness-verification-record.md,Record Template,Information Security Manager,Template Prepared,Effectiveness not verified
+EVD-043,Clauses 4-10,Readiness Checklist,10-readiness-assessment/iso27001-readiness-checklist.csv,Assessment Checklist,Information Security Manager,Not Assessed,Assessment not conducted
+EVD-044,Clauses 4-10,Readiness Assessment Report,10-readiness-assessment/iso27001-readiness-assessment-report.md,Assessment Report,Information Security Manager,Planned,Assessment not conducted
