@@ -1,0 +1,6 @@
+Communication ID,Incident ID,Date,Time,Communication Type,Sender,Recipient,Communication Channel,Communication Summary,Decision or Action,Confidentiality Classification,Status
+COM-001,INC-002,2026-11-27,09:15,Initial Report,Employee,Security Analyst,Security Portal,Employee reported a suspicious email containing an attachment,Incident recorded for triage,Confidential,Simulated
+COM-002,INC-002,2026-11-27,09:30,Triage Notification,Security Analyst,Information Security Manager,Internal Email,Initial phishing report and potential impact communicated,Investigation assigned to Security Analyst,Confidential,Simulated
+COM-003,INC-002,2026-11-27,10:00,Investigation Update,Security Analyst,IT Security Team,Internal Email,Investigation requirements and evidence collection activities communicated,Review email headers attachment and endpoint evidence,Confidential,Simulated
+COM-004,INC-002,2026-11-27,11:00,Management Update,Information Security Manager,IT Manager,Internal Meeting,Incident remains under investigation with no confirmed compromise,Continue investigation and reassess severity,Confidential,Simulated
+COM-005,INC-002,2026-11-27,12:00,Status Update,Security Analyst,Information Security Manager,Internal Email,Technical investigation evidence remains pending,Keep incident open and do not confirm compromise,Confidential,Simulated
