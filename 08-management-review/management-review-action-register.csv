@@ -1,0 +1,7 @@
+
+Action ID,Meeting Reference,Action Description,Related ISO 27001 Clause,Priority,Responsible Owner,Required Resources,Target Completion Date,Status,Completion Evidence,Effectiveness Review,Closure Date
+MRA-001,MRM-001,Review and update the information security risk register,6.1.2,High,Information Security Manager,Staff time and risk owner participation,Pending,Not Started,Pending,Pending,Pending
+MRA-002,MRM-001,Review outstanding security control implementation activities,6.1.3,High,IT Manager,Technical resources and control owner support,Pending,Not Started,Pending,Pending,Pending
+MRA-003,MRM-001,Evaluate information security awareness programme effectiveness,7.2 and 7.3,Medium,HR Manager,Training resources and assessment materials,Pending,Not Started,Pending,Pending,Pending
+MRA-004,MRM-001,Review internal audit findings and corrective action progress,9.2 and 10.2,High,Information Security Manager,Audit records and process owner participation,Pending,Not Started,Pending,Pending,Pending
+MRA-005,MRM-001,Review business continuity and disaster recovery readiness,8.1 and Annex A 5.30,High,IT Manager,Recovery documentation and testing resources,Pending,Not Started,Pending,Pending,Pending
