@@ -1,0 +1,6 @@
+Change ID,Request Date,Requester,Change Owner,Change Description,Affected Asset ID,Change Category,Risk Level,Approval Status,Testing Status,Implementation Status,Rollback Required,Post-Implementation Review,Closure Status
+CHG-001,2026-11-20,Nimal Perera,IT Manager,Upgrade production application dependencies,AST-003,Normal,High,Pending,Not Tested,Not Started,Yes,Pending,Open
+CHG-002,2026-11-21,Amal Jayasinghe,Cloud Administrator,Review and modify AWS security group configuration,AST-004,Normal,High,Pending,Not Tested,Not Started,Yes,Pending,Open
+CHG-003,2026-11-22,Tharushi Silva,Database Administrator,Modify database access permissions,AST-001,Normal,Medium,Pending,Not Tested,Not Started,Yes,Pending,Open
+CHG-004,2026-11-23,Security Analyst,IT Manager,Apply endpoint security agent update,AST-009,Standard,Low,Pre-Authorised,Not Tested,Not Started,Yes,Pending,Open
+CHG-005,2026-11-24,Security Analyst,Information Security Manager,Apply urgent security configuration change following a critical vulnerability alert,AST-004,Emergency,Critical,Pending Retrospective Review,Not Tested,Not Started,Yes,Pending,Open
