@@ -1,0 +1,6 @@
+Acknowledgement ID,Employee ID,Employee Name,Department,Policy ID,Policy Name,Policy Version,Policy Provided Date,Acknowledgement Date,Acknowledgement Status,Recorded By,Record Status
+ACK-001,CL-EMP-001,Nimal Perera,Software Development,POL-001,Information Security Policy,1.0,2027-01-15,2027-01-15,Acknowledged,HR Manager,Simulated
+ACK-002,CL-EMP-002,Tharushi Silva,Finance,POL-001,Information Security Policy,1.0,2027-01-15,2027-01-15,Acknowledged,HR Manager,Simulated
+ACK-003,CL-EMP-003,Amal Jayasinghe,IT Operations,POL-001,Information Security Policy,1.0,2027-01-15,2027-01-15,Acknowledged,HR Manager,Simulated
+ACK-004,CL-EMP-004,Kasun Fernando,Customer Support,POL-001,Information Security Policy,1.0,2027-01-15,2027-01-15,Acknowledged,HR Manager,Simulated
+ACK-005,CL-EMP-005,New Employee,Customer Support,POL-001,Information Security Policy,1.0,2027-02-01,,Pending,HR Manager,Simulated
